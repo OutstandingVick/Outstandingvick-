@@ -24,7 +24,7 @@ const Navbar = () => {
         </div>
         {/* Footer navigation, only visible on mobile */}
         <div className='md:hidden visible space-x-3 flex font-stylish text-xl'>
-          <a href='/home' className='no-underline'>
+          <a href='/' className='no-underline'>
             <svg
               xmlns='http://www.w3.org/2000/svg'
               viewBox='0 0 24 24'
