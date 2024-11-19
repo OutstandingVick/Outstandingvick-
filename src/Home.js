@@ -20,7 +20,7 @@ const Home = () => {
           </h1>
         </div>
 
-        {/* Top Middle: Profil Pic */}
+        {/* Top Middle: Profile Pic */}
         <div className='md:col-span-1 md:row-span-2 rounded-lg overflow-hidden'>
           {/* Add an image tag or background image */}
           <img
@@ -100,7 +100,7 @@ const Home = () => {
           </p>
           <div className='text-center mt-1'>
             <a
-              href='/project'
+              href='/about'
               className='inline-block bg-oxford text-powder rounded-full px-4 py-1 md:py-2 text-sm font-bold font-rye hover:text-oxford hover:bg-powder transition hover:border-2 hover:border-oxford duration-300'
             >
               More Details
